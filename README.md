@@ -1,4 +1,6 @@
 # DSSAT_MODULE
+Please read the READ_ME Doc file to understand the code functionality
+if you have any query or suggestion, please email me at <b>gbbgohain@gmail.com</b>
 This Module helps to Prepare DSSAT Experiment at any resolution ( grid, State, District, Block, Taluk or village based data avaiability)
 It can simulate crop yield with multiple crops and multiple years in a faster way.
 DSSAT_MODULE has five modules, which include 
