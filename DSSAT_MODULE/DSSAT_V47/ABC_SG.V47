@@ -1,0 +1,11 @@
+$BATCH(SEASONAL)
+!
+! Directory    : C:\DSSAT47\Seasonal
+! Command Line : C:\DSSAT47\DSCSM047.EXE CSCER047 B DSSBatch.v47
+! Crop         : Seasonal
+! Experiment   : ABC_SG.SNX
+! ExpNo        : 1
+! Debug        : C:\DSSAT47\DSCSM047.EXE CSCER047B DSSBatch.v47
+!
+@FILEX                                                                                        TRTNO     RP     SQ     OP     CO
+C:\DSSAT47\Seasonal\AGWQSG01.SNX                                                                  1      1      0      1      0
